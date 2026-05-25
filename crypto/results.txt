@@ -1,0 +1,15 @@
+1,4:
+Highest Score: 0.5551876379690949
+Best Feature Combination: ('volume', 'price_ma7_gap', 'price_ma30_gap')
+
+1,3:
+Highest Score: 0.5507726269315674
+Best Feature Combination: ('return_1', 'return_7')
+
+1,5:
+Highest Score: 0.5640176600441501
+Best Feature Combination: ('volume', 'return_1', 'price_ma7_gap', 'price_ma30_gap')
+
+1,6:
+Highest Score: 0.5673289183222958
+Best Feature Combination: ('volume', 'return_1', 'price_ma7_gap', 'price_ma30_gap', 'trend')
